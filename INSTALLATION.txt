@@ -5,6 +5,14 @@ create-react-app MyApp
 cd MyApp
 npm start
 
+
+# Deployment
+npm run build
+npm install -g serve
+serve -s build
+
+.js file size (deployment) is about 181 KB
+
 -----------------------
 -----------------------
 -----------------------
