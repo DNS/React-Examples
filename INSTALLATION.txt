@@ -14,12 +14,18 @@ serve -s build			# in .\build directory
 .js file size (deployment) is about 181 KB
 
 -----------------------
+
+# HTML to JSX
+
+https://transform.tools/html-to-jsx
+
 -----------------------
 -----------------------
 
 # Browser debugging extension
 https://addons.mozilla.org/en-US/firefox/addon/react-devtools
 
+-----------------------
 
 -----------------------
 
