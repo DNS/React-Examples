@@ -1,5 +1,11 @@
-// state nested deep
+/*
+  state nested deep
 
+  USE CASE:
+    - Theming
+    - Logged-in Account
+
+*/
 
 import { useContext } from 'react';
 import { createContext } from 'react';
