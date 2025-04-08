@@ -1,15 +1,15 @@
 ﻿
 # Install React
 npm install create-react-app 
-create-react-app MyApp
-cd MyApp
+create-react-app my-app
+cd my-app
 npm start
 
 
 # Deployment
 npm run build
 npm install -g serve
-serve -s build			# in .\build directory
+serve -s build			# run .\build directory
 
 .js file size (deployment) is about 181 KB
 
